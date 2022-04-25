@@ -1,3 +1,5 @@
 theme: academic-jekyll-theme
-title: Frances Bryson
-description: Robotics PhD Candidate at Georgia Institute of Technology.
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Frances Bryson"
+description: "Robotics PhD Candidate at Georgia Institute of Technology"
