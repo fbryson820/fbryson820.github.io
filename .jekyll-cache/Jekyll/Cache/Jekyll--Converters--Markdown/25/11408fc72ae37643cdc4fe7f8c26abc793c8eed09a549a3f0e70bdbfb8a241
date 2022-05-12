@@ -1,0 +1,9 @@
+I"à<p>Astrobiological missions that investigate ocean worlds could encounter high salinity brines. To address complications with salts, we are developing a miniature robotic electrodialysis system to desalt samples with dissolved organic molecule recovery.</p>
+
+<p>To this end, the Miniature Robotic Electrodialysis (MR ED) system has been developed and tested with a number of natural samples, including brines. It has an average dissolved organic carbon recovery of 71% with non-brine samples, and successfully desalted NaCl brines from South Bay Salt Works with 77% DOC recovery.</p>
+
+<p>MR ED has so far been developed on the benchtop, but future work includes integrating the pump control (which circulates sample and concentrate at a high flow rate to increase desalting efficiency), power control with the existing Raspberry Pi-based sensing framework to create a self-contained, autonomous instrument.</p>
+
+<hr />
+<p>Planetary Habitability and Technology Lab, PI Dr. Britney Schmidt</p>
+:ET

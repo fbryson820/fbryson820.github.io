@@ -1,11 +1,8 @@
----
-layout: page
-title: "Tether Management System"
----
+I"Z<p><img src="/assets/img/tms_vert.jpg" alt="Model of the TMS" width="80" /></p>
 
 <div>
 	<div>
-		<img align="right" src="/assets/img/tms_vert.jpg" alt="Model of the TMS" width="200"/>
+		<img align="right" src="/assets/img/chp-roscoe.jpg" alt="Frances with Roscoe at CHP" width="180" />
 	</div>
 	<div>
 The VERNE project identified a tether managment system to be critical to the exploration of under-ice oceans, particularly those on ocean worlds such as Europa. A mission to access Europa’s ocean will require robust tether management to span across Europa’s thick ice shell as well as to enable ocean activities such as water column profiling. Through-ice deployments tightly constrain the size and mass of the probe to fit within a small borehole diameter; tether management systems of this stringent form factor do not currently exist.
@@ -14,6 +11,7 @@ We have designed a tether management system (TMS) that stores up to 950 m of Kev
 	</div>
 </div>
 
----
+<hr />
 
-Planetary Habitability and Technology Lab, PI Dr. Britney Schmidt
+<p>Planetary Habitability and Technology Lab, PI Dr. Britney Schmidt</p>
+:ET

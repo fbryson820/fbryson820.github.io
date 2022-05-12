@@ -9,3 +9,18 @@ index:
 - {name: 'Vertical Entry Robot for Navigating Europa (VERNE) Mission and System Design, Proceedings of ASCEND 2020', url: 'https://doi.org/10.2514/6.2020-4061'}
 - {name: 'A Configurable Solid Sampling System for AUV/ROV Icefin, Proceedings of OCEANS 2020 Gulf Coast', url: 'https://doi.org/10.1109/IEEECONF38699.2020.9389075'}
 - {name: 'Vertical Entry Robot for Navigating Europa (VERNE): an ocean profiling thermo-mechanical subsurface mission concept for searching for life. Planetary Science Journal, in review', url: ''}
+- {name: 'Miniature Robotic Electrodialysis (MR ED) and Technology Development for Sample Handling Systems for Ocean Worlds Missions, in preparation', url: ''}
+
+verne:
+- {name: 'Subsurface Science and Search for Life in Ocean Worlds. Planetary Science Journal, accepted 2021', url: ''}
+- {name: 'Vertical Entry Robot for Navigating Europa (VERNE) Mission and System Design, Proceedings of ASCEND 2020', url: 'https://doi.org/10.2514/6.2020-4061'}
+- {name: 'Vertical Entry Robot for Navigating Europa (VERNE): an ocean profiling thermo-mechanical subsurface mission concept for searching for life. Planetary Science Journal, in review', url: ''}
+
+mred:
+- {name: 'Miniature Robotic Electrodialysis (MR ED) and Technology Development for Sample Handling Systems for Ocean Worlds Missions, in preparation', url: ''}
+
+arm:
+- {name: 'A Configurable Solid Sampling System for AUV/ROV Icefin, Proceedings of OCEANS 2020 Gulf Coast', url: 'https://doi.org/10.1109/IEEECONF38699.2020.9389075'}
+
+icefin:
+- {name: 'Antarctic Deep Field Deployments and Design of the Icefin ROV, OCEANS 2020', url: 'https://ieeexplore.ieee.org/document/9389361/'}

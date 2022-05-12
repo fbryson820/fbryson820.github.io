@@ -10,10 +10,15 @@ Frances operated as a systems lead for both the Sample Handling System team and 
 <img src = "/assets/img/verne-conops.jpg" alt="VERNE System ConOps" width="600">
 
 ---
-
-**Publications and Proceedings:**
-
-
+<div>
+<h3 class="fw-bold border-bottom pb-3 mb-5">Publications and Presentations</h3>
+  {% for item in site.data.publications.verne %}
+    <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+  {% endfor %}
+  {% for item in site.data.presentations.verne %}
+    <p><a>{{ item.name }}</a></p>
+  {% endfor %}
+</div>
 
 
 ---

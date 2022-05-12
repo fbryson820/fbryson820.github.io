@@ -1,0 +1,18 @@
+index:
+- {name: 'Development and testing of a Miniature Robotic Electrodialysis (MR ED) system to remove salts for ocean world sampling. AbSciCon, 2022', url: ''}
+- {name: 'Development and testing of a Miniature Robotic Electrodialysis (MR ED) system to remove salts for ocean world sampling, AGU, 2021', url: ''}
+- {name: 'Development and Testing of a Miniature Robotic Electrodialysis (MR ED) System to Remove Salts for Ocean World Sampling, Modern Brines, LPI Contributions 2641, 2021', url: ''}
+- {name: 'Vertical Entry Robot for Navigating Europa (VERNE) - A Mission Concept and Identification of Technologies Needed to Access Europa’s Ocean, AGU, 2020', url: ''}
+
+icefin:
+- {name: 'ROV Icefin at Ross Ice Shelf Grounding Zone: 5 km of ice, ocean, seafloor, and crevasse exploration, AGU, 2020'}
+- {name: 'Melting at the Grounding Zone of Thwaites Glacier Observed by Icefin, AGU, 2020'}
+- {name: 'Life Under Ice: Antarctic Ocean World Analogs with HROV Icefin and RISE UP, AGU, 2018'}
+
+verne:
+- {name: 'Vertical Entry Robot for Navigating Europa (VERNE) - A Mission Concept and Identification of Technologies Needed to Access Europa’s Ocean, AGU, 2020', url: ''}
+
+mred:
+- {name: 'Development and testing of a Miniature Robotic Electrodialysis (MR ED) system to remove salts for ocean world sampling. AbSciCon, 2022', url: ''}
+- {name: 'Development and testing of a Miniature Robotic Electrodialysis (MR ED) system to remove salts for ocean world sampling, AGU, 2021', url: ''}
+- {name: 'Development and Testing of a Miniature Robotic Electrodialysis (MR ED) System to Remove Salts for Ocean World Sampling, Modern Brines, LPI Contributions 2641, 2021', url: ''}
